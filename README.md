@@ -1,6 +1,6 @@
 # Francesco Chiarolanza
 
-Data engineering, NLP e data journalism. Roma.
+Sviluppo applicazioni web e mobile, data engineering e NLP. Roma.
 
 Questo repository raccoglie il lavoro che posso mostrare pubblicamente: la tesi di laurea
 sperimentale con la pipeline che la riproduce, e gli articoli di analisi dati scritti per
@@ -9,6 +9,12 @@ la testata Liberi Network.
 Contatti: chiarolanza.francesco@gmail.com
 
 ---
+
+## Applicazioni web e mobile
+
+**[Portfolio applicazioni: Tom’s Christian Tours, Leggio e FungoMeter](applicazioni/README.md)**
+
+Demo pubbliche, codice disponibile e schede tecniche dei progetti. React/TypeScript, Node.js e Python; frontend, persistenza, API e pipeline dati. Accessibilità e limiti indicati per ciascun progetto (23/10/2026).
 
 ## Tesi di laurea
 
