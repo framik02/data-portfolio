@@ -3,21 +3,25 @@
 **Francesco Chiarolanza · Roma**  
 TypeScript, React, Node.js e Python, dalle interfacce alle API e ai dati.
 
-Stato dei link verificato il **23 ottobre 2026**. Le indicazioni qui sotto distinguono ciò che si può provare pubblicamente dalle funzioni del progetto completo.
+Stato dei link verificato il **27 ottobre 2026**. Le indicazioni qui sotto distinguono ciò che si può provare pubblicamente dalle funzioni del progetto completo.
 
 | Progetto | Cosa vedere | Tecnologie |
 |---|---|---|
-| [Tom’s Christian Tours](https://framik02.github.io/tct-app-preview/) | Preview pubblica del catalogo, ricerca, filtri e schede viaggio | React Native / Expo, TypeScript; backend del progetto Node.js e SQLite |
+| Tom’s Christian Tours | Schermate del catalogo, della ricerca e delle schede viaggio. Accesso riservato al cliente | React Native / Expo, TypeScript; backend del progetto Node.js e SQLite |
 | [Leggio](https://framik02.github.io/leggio/) | Libreria e lettore PWA utilizzabili nel browser | JavaScript, IndexedDB, Service Worker, Web Speech API |
 | [FungoMeter](https://fungometer.chiarolanza-francesco.workers.dev/) | Sito del prodotto in preapertura; codice e metodo pubblici | Python, JavaScript, Leaflet, API meteo, GitHub Actions |
 
 ## Tom’s Christian Tours
 
-![Preview del catalogo](tom.png)
+<p>
+<img src="tom-home.png" width="250" alt="Home dell'app">
+<img src="tom-catalogo.png" width="250" alt="Catalogo con ricerca e filtri">
+<img src="tom-viaggio.png" width="250" alt="Scheda di un viaggio">
+</p>
 
 App per un tour operator statunitense, con frontend condiviso web/mobile e servizio Node.js con persistenza SQLite. Il progetto comprende catalogo, area viaggiatori, chat per partenza e console staff, con ruoli e autorizzazioni controllati dal server. Integrazione WeTravel in sola lettura e ambiente demo distinto dai servizi reali.
 
-**Da provare:** apri [la preview](https://framik02.github.io/tct-app-preview/), scegli **Explore**, usa i filtri e consulta una scheda viaggio. La preview pubblica espone il catalogo: non dà accesso alle prenotazioni o alle chat dei clienti. Il repository applicativo e la demo privata del team restano separati. Non è una release sugli store.
+L'app è sviluppata per il cliente e l'accesso resta riservato. Le schermate qui sopra mostrano home, catalogo con ricerca e filtri e scheda di un viaggio. Posso mostrare il resto, area viaggiatori e console staff comprese, durante un colloquio.
 
 ## Leggio
 
