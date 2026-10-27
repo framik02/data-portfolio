@@ -4,9 +4,9 @@ Sviluppo applicazioni web e mobile, data engineering e NLP. Roma.
 
 Questo repository raccoglie il lavoro che posso mostrare pubblicamente. La tesi di laurea
 sperimentale con la pipeline che la riproduce, sette fra articoli e report di analisi dati
-per Liberi Network e Popular Opinions, le applicazioni e una rassegna dimostrativa.
+per Liberi Network e Popular Opinions e le applicazioni.
 
-**[Portfolio in PDF](Portfolio_Francesco_Chiarolanza.pdf)**, otto pagine (27/10/2026).
+**[Portfolio in PDF](Portfolio_Francesco_Chiarolanza.pdf)**, sette pagine (27/10/2026).
 
 Contatti: chiarolanza.francesco@gmail.com
 
@@ -54,12 +54,6 @@ essa lo stesso corpus produce un errore di 2,68 punti, oltre sei volte più gran
 | [Caso Roggero, il giudizio della rete](articoli/caso-roggero-il-giudizio-della-rete.md) | 144.970 commenti |
 
 Sintesi e risultati principali di ciascuno nell'[indice degli articoli](articoli/README.md).
-
-## Rassegna dimostrativa
-
-Un esempio del formato delle rassegne che preparo, con tre sintesi originali su fonti
-pubbliche, in [versione scritta](rassegna-demo/rassegna-dimostrativa.pdf) e
-[audio](rassegna-demo/rassegna-dimostrativa.mp3). Nessun materiale interno.
 
 ## Come lavoro
 
