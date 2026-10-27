@@ -4,9 +4,9 @@ Sviluppo applicazioni web e mobile, data engineering e NLP. Roma.
 
 Questo repository raccoglie il lavoro che posso mostrare pubblicamente. La tesi di laurea
 sperimentale con la pipeline che la riproduce, sette fra articoli e report di analisi dati
-per Liberi Network e Popular Opinions e le applicazioni.
+per Liberi Network e Popular Opinions, la mappa delle collaborazioni politiche su Instagram e le applicazioni.
 
-**[Portfolio in PDF](Portfolio_Francesco_Chiarolanza.pdf)**, sette pagine (27/10/2026).
+**[Portfolio in PDF](Portfolio_Francesco_Chiarolanza.pdf)**, otto pagine (27/10/2026).
 
 Contatti: chiarolanza.francesco@gmail.com
 
@@ -17,6 +17,19 @@ Contatti: chiarolanza.francesco@gmail.com
 **[Portfolio applicazioni: Tom’s Christian Tours, Leggio e FungoMeter](applicazioni/README.md)**
 
 Demo pubbliche, schermate, codice disponibile e schede tecniche dei progetti. React/TypeScript, Node.js e Python; frontend, persistenza, API e pipeline dati. Accessibilità e limiti indicati per ciascun progetto (27/10/2026).
+
+## Liberi Network, la rete su Instagram
+
+**[Mappa delle collaborazioni](https://framik02.github.io/ecosistema-network/)** fra profili
+Instagram della politica e dell'informazione, aggiornata in automatico. Al 13 ottobre 2026
+collega 225 profili con 187 legami fra profili monitorati, e ogni legame si apre sui post
+che lo giustificano.
+
+I dati arrivano da uno scraper che ho scritto per Liberi Network. Un browser automatico con
+sessione persistente legge post, coautori e commenti dai dati che la pagina riceve, li salva
+in SQLite e misura la copertura di ogni post togliendo i commenti che arrivano dalla copia su
+Facebook. In locale un livello semantico con embedding multilingue misura le affinità fra
+profili e raggruppa le caption per tema.
 
 ## Tesi di laurea
 
